@@ -1,0 +1,1 @@
+export const API_URL = 'https://apikasirapp.000webhostapp.com/api/';
